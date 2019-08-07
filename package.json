@@ -1,0 +1,31 @@
+{
+  "name": "altanet.servidor",
+  "version": "1.0.0",
+  "description": "Conexion a PTL",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhidalgo42/altanet.git"
+  },
+  "keywords": [
+    "altanet",
+    "ptl"
+  ],
+  "author": "Leonardo Hidalgo <lhidalgosep@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhidalgo42/altanet/issues"
+  },
+  "homepage": "https://github.com/lhidalgo42/altanet#readme"
+}
