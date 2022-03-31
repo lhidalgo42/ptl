@@ -1,0 +1,6 @@
+[
+   { "Posicion" : 1 , "Cantidad" :  1, "Pallet_escaneado_al_compienzo_PTL" : "MT0051" },
+    { "Posicion" : 2 , "Cantidad" : 2 , "Pallet_escaneado_al_compienzo_PTL" : "MT0051" }, 
+    { "Posicion" : 3 , "Cantidad" : 3 , "Pallet_escaneado_al_compienzo_PTL" : "MT0051" },
+    { "Posicion" : 4 , "Cantidad" : 4 , "Pallet_escaneado_al_compienzo_PTL" : "MT0051" }
+]

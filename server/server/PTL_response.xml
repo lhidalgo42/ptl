@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <Recibe_estado_PTL xmlns="http://microsoft.com/webservices/">
+            <xml>
+                <PTL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="">
+                    <Cabecera>
+                        <Numero_maquina_PLT>{Numero_maquina_PLT}</Numero_maquina_PLT>
+                        <Posicion>{Posicion}</Posicion>
+                        <Hecho_completo_o_incompleto>{Hecho_completo_o_incompleto}</Hecho_completo_o_incompleto>
+                    </Cabecera>
+                </PTL>
+            </xml>
+        </Recibe_estado_PTL>
+    </Body>
+</Envelope>
